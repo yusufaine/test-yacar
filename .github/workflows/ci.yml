@@ -56,7 +56,7 @@ jobs:
     if: |
       github.repository == github.event.pull_request.head.repo.full_name || 
       github.repository != 'coinhall/yacar' ||
-      (github.repository == 'coinhall/yacar' && github.event.pull_request.merged == true)
+      github.event.pull_request.merged == true
     runs-on: ubuntu-latest
     defaults:
       run:
