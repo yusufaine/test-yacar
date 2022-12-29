@@ -122,7 +122,7 @@ jobs:
     needs: [validate, format]
     if: | 
       github.event_name == 'pull_request' && 
-      github.event.pull_request.user.login == 'test'
+      github.event.pull_request.user.login != 'test'
     steps:
       - name: automerge
         uses: pascalgn/automerge-action@v0.15.5
