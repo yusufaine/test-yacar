@@ -121,7 +121,7 @@ jobs:
     runs-on: ubuntu-latest
     needs: [validate, format]
     if: |
-      github.ref != 'refs/heads/main' &&
+      ${{ github.event_name }} == 'pull_request' &&
       ${{ github.event.pull_request.user.login }} == 'cs3219-2223-g42'
     steps:
       - name: automerge
