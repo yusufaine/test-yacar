@@ -119,20 +119,20 @@ jobs:
 
   auto-approve:
     runs-on: ubuntu-latest
+    needs: [validate, format]
     permissions:
       pull-requests: write
-    if: github.event.pull_request.user.login != 'test'
+    if: |
+      github.event_name == 'pull_request' &&
+      github.event.pull_request.user.login != 'test'
     steps:
       - uses: hmarr/auto-approve-action@v3
 
-  automerge:
+  auto-merge:
     runs-on: ubuntu-latest
-    needs: [validate, format]
-    if: |
-      github.event_name == 'pull_request' && 
-      github.event.pull_request.user.login != 'test'
+    needs: [auto-approve]
     steps:
-      - name: automerge
+      - name: auto-merge
         uses: pascalgn/automerge-action@v0.15.5
         env:
           GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
