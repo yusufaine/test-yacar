@@ -294,6 +294,16 @@
     "icon": "https://red.redacted.money/red.svg"
   },
   {
+    "id": "terra1q8kfp0v9rhef0d3u44ds9shwvwcusjheh8nhye3n7gwjd95ze96sehyp6w",
+    "entity": "Santerra",
+    "name": "Santerra SANT",
+    "symbol": "SANT",
+    "decimals": "6",
+    "icon": "https://santerra.app/sant_logo.svg",
+    "website": "https://santerra.app/",
+    "twitter": "https://twitter.com/Santerra_SANT"
+  },
+  {
     "id": "ibc/10BD6ED30BA132AB96F146D71A23B46B2FC19E7D79F52707DC91F2F3A45040AD",
     "entity": "Secret Network",
     "name": "Secret",
@@ -439,6 +449,36 @@
     "coingecko": "https://www.coingecko.com/en/coins/wrapped-solana"
   },
   {
+    "id": "terra1hva5lt2whpgav5hhsxfvegvkk2kjjshprzj7spe3cl24g4705asq4kx299",
+    "name": "AMPL-IBC/-LP",
+    "symbol": "uLP",
+    "decimals": "6"
+  },
+  {
+    "id": "terra1gs5k436vrwd38rqeanlnacl25swv8gmljgg0zej2ccvdmzr3lpdqmfxrl2",
+    "name": "Anchor Token (Wormhole)",
+    "symbol": "ANC",
+    "decimals": "6"
+  },
+  {
+    "id": "terra15yw86743jryfe890fkuuz8egx22j5te7wat6j76gfm4pgywd0erqaxsr65",
+    "name": "Anchor Token (Wormhole) (Wormhol (Wormhole)",
+    "symbol": "ANC",
+    "decimals": "6"
+  },
+  {
+    "id": "terra1g5ghrkqcc5h6cg7ppjljlmx3gcwqzae4a5dwyaajwck2wzyl7p5sgr9tvc",
+    "name": "Anchor Token (Wormhole) (Wormhol (Wormhole)",
+    "symbol": "ANC",
+    "decimals": "6"
+  },
+  {
+    "id": "terra1zfhdvjkejtpp639emz9jyre3pp90zq35snrlypyv84x3qrza4xzs5cykdt",
+    "name": "Anchor Token (Wormhole) (Wormhol (Wormhole)",
+    "symbol": "ANC",
+    "decimals": "6"
+  },
+  {
     "id": "terra1p67lldutk5haqpmnk5thuhmhyff8ntf8axa37mzm87qq58082u0qqp9mmu",
     "name": "Apple (Wormhole)",
     "symbol": "mAAPL",
@@ -454,9 +494,21 @@
     "decimals": "6"
   },
   {
+    "id": "terra1u9amrmxnnhfwecku6ndaxk2034e73cddxau96avzg4r0xvta4wns2ckane",
+    "name": "ASTR-TPT-LP",
+    "symbol": "uLP",
+    "decimals": "6"
+  },
+  {
     "id": "terra1jqt5mmlpd6x3jtwfdsxwtrknvaczz2xmplukzc8h86xhupg7fe7q7nkzdp",
     "name": "Auto TOKEN",
     "symbol": "AUTO",
+    "decimals": "6"
+  },
+  {
+    "id": "terra1vpcj4fj0yxy4m928lxf8us7tk8kdqr3ny6q2gtx7g0s935awdreqppm7au",
+    "name": "BLUN-USDC-LP",
+    "symbol": "uLP",
     "decimals": "6"
   },
   {
@@ -500,6 +552,12 @@
     "twitter": "https://twitter.com/FATMANTOKEN"
   },
   {
+    "id": "terra10exkttsx4xq2j5k3uel9h4gvxy63yd90u46yt3qzn9vfcuh2utwqydz8rq",
+    "name": "Froggy",
+    "symbol": "FRGY",
+    "decimals": "6"
+  },
+  {
     "id": "terra13jlm0anpdd3hc0xctw9vtncmcfnrag8dh686s2juy7m226unwd4q0tmx2v",
     "name": "GEA",
     "symbol": "GEA",
@@ -521,6 +579,12 @@
     "id": "terra1klxa4rxjgpg9xuaf5mwpgykpv7x9decrvgg3ejresupcne69cgdqzx5yhu",
     "name": "HERO",
     "symbol": "HERO",
+    "decimals": "6"
+  },
+  {
+    "id": "terra12857xqnmsxdcd73qvtl7cr92djguxs03mmpgmgksey0xxzmkzqvs29aadp",
+    "name": "IBC/-USDC-LP",
+    "symbol": "uLP",
     "decimals": "6"
   },
   {
@@ -587,6 +651,12 @@
     "decimals": "6"
   },
   {
+    "id": "terra1z56spghy7kmvv6j9p7gv2hf569x57mnnex4gcqyx5m8m76d0awvqd6ywfj",
+    "name": "Nauticus Principal: LUNA/LUNAX LP Astro",
+    "symbol": "pLUNA-LUNAX",
+    "decimals": "6"
+  },
+  {
     "id": "terra1gk0y0tcxj8pr65tanqvc8zyzv3c8szkwf2kcmzgqj9jm2t9z3f9q4xcnfz",
     "name": "Nauticus Principal: USDC/USDT LP Astro",
     "symbol": "pN-USDC-USDT",
@@ -596,6 +666,18 @@
     "id": "terra1e0uch3fwned9rfhkaeehqv9mnfuwjh9jfhawd4gxw248czljdttsh22jkg",
     "name": "Nauticus Yield: USDC/USDT LP Astro",
     "symbol": "yN-USDC-USDT",
+    "decimals": "6"
+  },
+  {
+    "id": "terra10804tj9tsguuhe5k3yt0xm2h6wdtn8zhea4mj9v8s04w6enstf0sgf0mtq",
+    "name": "New Community Luna (Wormhole)",
+    "symbol": "cLuna",
+    "decimals": "8"
+  },
+  {
+    "id": "terra13y6q5agfqdvd4mkrzzw9fadp500nk4spnd8rzyrkdls5fsqgurksa74uxz",
+    "name": "ORNE-RED-LP",
+    "symbol": "uLP",
     "decimals": "6"
   },
   {
@@ -623,6 +705,18 @@
     "decimals": "6"
   },
   {
+    "id": "terra1ugyv3qhdvrpkrd983dd8p70cg6zjparxd3xxqqrennzvxfyf2r9svv83a8",
+    "name": "Terra (Wormhole)",
+    "symbol": "LUNA",
+    "decimals": "8"
+  },
+  {
+    "id": "terra1fn29pxsueea3zt3xw909gpgjmzcwfxw7q55jgcsfh7v5rh4y3a6s2s69k8",
+    "name": "terraswap liquidity token",
+    "symbol": "uLP",
+    "decimals": "6"
+  },
+  {
     "id": "terra1mma39sqn43aen4jh2sdmka84mv94uk7v7xw3ype2fdvlay6emrlqweyf5u",
     "name": "Test Cw20 TOKEN",
     "symbol": "TCW",
@@ -647,6 +741,12 @@
     "id": "terra16er279t0mgumskzqp2eq5wju9ge68v6y7ylq4qju35rj5as6gwaqpf70xu",
     "name": "TokenB",
     "symbol": "TKNB",
+    "decimals": "6"
+  },
+  {
+    "id": "terra1f6lmzz9caag00uqssw4dlczrvlaeva4afn2yl3cxfd0ncawpelnqwmtj2d",
+    "name": "ULUN-FRGY-LP",
+    "symbol": "uLP",
     "decimals": "6"
   },
   {

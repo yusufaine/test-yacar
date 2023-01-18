@@ -1,10 +1,5 @@
 [
   {
-    "id": "aaaTestAddress",
-    "entity": "aaaTestEntity",
-    "label": "aaaTestLabel"
-  },
-  {
     "id": "terra1zc22aslphuhg3qhs6sk86h27gtxkkf8tf44l9n",
     "entity": "Andromeda",
     "label": "Emergency Allocation Receiver"
@@ -30,12 +25,12 @@
     "label": "Emergency Allocation Receiver"
   },
   {
-    "id": "terra1xqys9ke2y98puxvgmuc5px2yr6c563rhawy7h9",
+    "id": "terra15lt543vnsmceycvsa92nccp546sk3xa45p8xvx",
     "entity": "Astroport",
     "label": ""
   },
   {
-    "id": "terra15lt543vnsmceycvsa92nccp546sk3xa45p8xvx",
+    "id": "terra1xqys9ke2y98puxvgmuc5px2yr6c563rhawy7h9",
     "entity": "Astroport",
     "label": ""
   },
