@@ -20,6 +20,11 @@
     "label": "Liquidity Pool"
   },
   {
+    "id": "392",
+    "entity": "Astroport",
+    "label": "Liquidity Pool"
+  },
+  {
     "id": "752",
     "entity": "White Whale",
     "label": "Liquidity Pool"
@@ -43,11 +48,6 @@
     "id": "898",
     "entity": "Edge",
     "label": "Liquidator"
-  },
-  {
-    "id": "392",
-    "entity": "Astroport",
-    "label": "Liquidity Pool"
   },
   {
     "id": "963",
