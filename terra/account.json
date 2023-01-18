@@ -1,10 +1,5 @@
 [
   {
-    "entity": "Zodiac Protocol",
-    "id": "terra1q28hkv34cgjsu0kyjp86fmxptz3wtgx4e42hw2",
-    "label": "Emergency Allocation Receiver"
-  },
-  {
     "id": "terra1zc22aslphuhg3qhs6sk86h27gtxkkf8tf44l9n",
     "entity": "Andromeda",
     "label": "Emergency Allocation Receiver"
@@ -422,6 +417,11 @@
   {
     "id": "terra1c56njwtrg6hlgelly226snegtmtwvlsls85d592rggah3mecjxxqgwfd5d",
     "entity": "Y-Foundry DAO",
+    "label": "Emergency Allocation Receiver"
+  },
+  {
+    "id": "terra1q28hkv34cgjsu0kyjp86fmxptz3wtgx4e42hw2",
+    "entity": "Zodiac Protocol",
     "label": "Emergency Allocation Receiver"
   }
 ]
