@@ -121,7 +121,7 @@ jobs:
     needs: [validate, format]
     if: |
       github.event_name == 'pull_request' && 
-      github.repository == 'coinhall/yacar'
+      github.repository == 'yusufaine/test-yacar'
     steps:
       - name: auto-merge
         uses: pascalgn/automerge-action@v0.15.5
